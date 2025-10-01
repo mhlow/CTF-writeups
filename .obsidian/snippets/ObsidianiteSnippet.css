@@ -1,0 +1,98 @@
+
+
+.theme-dark {
+  --tex-color: #25c789;
+  --bg-accent-35: rgba(14, 210, 247, 0.35);
+}
+
+.MJX-TEX{
+  color: var(--tex-color);
+}
+
+/* Footnote animation */
+
+.footnote-link:not(.footnote-backref) {
+  color: var(--text-accent);
+  font-size: 10px;
+  position: relative;
+  top: -5px;
+}
+
+li {
+  transition: 2s ease;
+}
+
+.is-flashing {
+  transition: all 1s ease;
+}
+
+/* Table adjustments */
+
+/* table {
+  --background-modifier-border: none;
+} */
+
+/* Wider note space */
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 1000px;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+  max-width: 1000px;
+}
+
+.cm-s-obsidian span.cm-hmd-internal-link .cm-underline,
+.internal-link {
+  border-radius: 3px;
+}
+
+/* SPEEEEEEN */
+
+.clickable-icon[aria-label="Settings"] > svg {
+  animation-direction: reverse;
+  /* animation: 0.8s ease-in-out spin-out; */
+  transition: 1s ease-in-out;
+}
+
+.clickable-icon[aria-label="Settings"]:hover > svg {
+  animation: 1s infinite ease-in-out change-color;
+
+  transition: transform 1s ease-in-out;
+  transform: rotate(360deg);
+}
+
+@keyframes change-color{
+  0% {
+    color: #34e653;
+  }
+  33% {
+    color: #ff3c7d;
+  }
+  66% {
+    color: #8284ff;
+  }
+  100% {
+    color: #34e653;
+  }
+}
+
+
+/* Tab header modification*/
+.is-focused .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-icon, .is-focused .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  background: rgba(0, 0, 0, 0);
+}
+
+
+.cm-s-obsidian span.cm-hmd-internal-link .cm-underline {
+  background-image: linear-gradient(to bottom, var(--bg-accent-35) 0%, var(--bg-accent-35) 100%);
+}
+
+/* Background */
+.workspace-split.mod-root .view-content {
+  background:
+      radial-gradient(rgba(0,0,0,0.7), black),
+      url("https://i.imgur.com/g6frFEc.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}

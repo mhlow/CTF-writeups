@@ -1,0 +1,48 @@
+/* SPEEEEEEN */
+
+.lucide-settings {
+  animation-direction: reverse;
+  /* animation: 0.8s ease-in-out spin-out; */
+  transition: 1s ease-in-out;
+}
+
+.lucide-settings:hover {
+  animation: 1s infinite ease-in-out change-color;
+
+  transition: transform 1s ease-in-out;
+  transform: rotate(360deg);
+}
+
+@keyframes change-color{
+  0% {
+    color: #34e653;
+  }
+  33% {
+    color: #ff3c7d;
+  }
+  66% {
+    color: #8284ff;
+  }
+  100% {
+    color: #34e653;
+  }
+}
+
+
+.callout-content {
+  padding-top: 0px;
+}
+
+/* Background */
+/* .workspace-split.mod-root .view-content {
+  background:
+      radial-gradient(rgba(0,0,0,0.7), black),
+      url("https://i.imgur.com/g6frFEc.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+} */
+
+/* .markdown-rendered hr {
+  border-color: #ff3c7d;
+  width:50%;
+} */

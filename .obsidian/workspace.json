@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "26fbdf6e9d622827",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3e480f9c83d7a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3d9396895a43105",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "full-calendar-view"
+            }
+          },
+          {
+            "id": "5c9333d823176a26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3a164b442051c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "2752810c4e0f9f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f046c7a7284d99b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9cdad4df1393770",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6223750fb125c157",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "278602b1119a3def",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c2595e18c1b51a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d631028e4e651e0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMP30023 - Computer Systems/Lectures/2. Processes and Threads.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Processes and Threads"
+            }
+          },
+          {
+            "id": "875cb68c18a1aec3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e52b2f5cb29b49e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43cb5cfb5c182993",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMP30023 - Computer Systems/Lectures/2. Processes and Threads.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Processes and Threads"
+            }
+          },
+          {
+            "id": "5ac1b143e291ac10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SWEN30006/GOF Design Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GOF Design Patterns"
+            }
+          },
+          {
+            "id": "16eb65ed477cf87e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "48f06d55cc1b853e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "5c9333d823176a26",
+  "lastOpenFiles": [
+    "COMP30026/1. Motivation and Basics.md",
+    "COMP30026/Lecture Images/7. Palindrome.png",
+    "COMP30026/7. Context Free Languages.md",
+    "COMP30026/Lecture Images/7. Machines vs Languages.png",
+    "COMP30026/Lecture Images/7. Pushdown Automata Example NFA Real.png",
+    "COMP30026/Lecture Images/7. Pushdown Automata Example NFA.png",
+    "COMP30026/Lecture Images/7. Pushdown Automata Example Stack.png",
+    "COMP30019/Project 2.md",
+    "COMP30019/15. Evaluation.md",
+    "COMP30026/Lecture Images/7. Ambiguity 1.png",
+    "COMP30026/Lecture Images/7. Ambiguity 2.png",
+    "COMP30026/Lecture Images/7. Parse Tree.png",
+    "COMP30019/Project 1.md",
+    "COMP30026/6. Regular Expressions.md",
+    "COMP30026/5. Finite Automata.md",
+    "COMP30019/OBJ File Format.md",
+    "Autonomous/Setup.md",
+    "Autonomous/Autonomous Workshop.md",
+    "COMP30019/14. Human Cognition.md",
+    "COMP30019/13. Interactive Computer Graphics.md",
+    "COMP30026/Lecture Images/6. Prefix-Suffix Decomp.png",
+    "COMP30026/Lecture Images/6. Fooling Set Example 2.png",
+    "COMP30019/11. Animation.md",
+    "COMP30019/12. Skinning.md",
+    "COMP30026/desktop.ini",
+    "COMP30019/3. Ray Tracing.md",
+    "COMP30019/8. Shaders.md",
+    "COMP30019/9. Textures.md",
+    "COMP30019/10. Advanced Rendering.md",
+    "COMP30019/7. Rasterisation.md",
+    "COMP30026/4. Unification.md",
+    "COMP30026/2. Propositional Logic.md",
+    "COMP30026/3. Predicate Logic.md",
+    "COMP30019/2. Geometry.md",
+    "COMP30019/4. Transformations.md",
+    "COMP30019/5. Coordinate Systems.md",
+    "COMP30022/Lecture Images/desktop.ini",
+    "COMP30022/Lecture Images",
+    "COMP30026/Lecture Images",
+    "Lecture Images",
+    "COMP30026/image_editor.py",
+    "Autonomous",
+    "New folder",
+    "COMP30019/Lecture Images",
+    "COMP30026",
+    "Untitled.canvas"
+  ]
+}

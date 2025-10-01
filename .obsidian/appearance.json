@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "AnuPpuccinSnippet"
+  ],
+  "baseFontSize": 16,
+  "translucency": false,
+  "monospaceFontFamily": "Source Code Pro",
+  "theme": "system"
+}

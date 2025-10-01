@@ -1,0 +1,26 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#ff906b",
+      "directory": "Calendar Events/COMP30019"
+    },
+    {
+      "type": "local",
+      "color": "#b887e8",
+      "directory": "Calendar Events/COMP30022"
+    },
+    {
+      "type": "local",
+      "color": "#a7fda5",
+      "directory": "Calendar Events/COMP30026"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGridDay"
+  },
+  "timeFormat24h": false
+}

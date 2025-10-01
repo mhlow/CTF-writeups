@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 80
+  },
+  "vimMode": true,
+  "promptDelete": false
+}
