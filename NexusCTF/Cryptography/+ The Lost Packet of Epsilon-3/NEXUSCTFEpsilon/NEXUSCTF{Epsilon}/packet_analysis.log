@@ -1,0 +1,24 @@
+[2025-09-03T12:01:00Z] analyst: downloaded packet, file recovered.bin contains 48 hex chars
+[2025-09-03T12:02:01Z] analyst: hex decodes to readable ASCII base64-like string
+[2025-09-03T12:07:01Z] intern: tried ROT13, gave garbage
+[2025-09-03T12:09:02Z] analyst: found reference to 'echo' in the satellite relay signature, might be a call pattern
+[2025-09-03T12:12:03Z] intern: noticed repeating patterns, possibly polyalphabetic cipher
+[2025-09-03T12:13:04Z] analyst: tried base64 → reverse → ROT47 → got NexusCTF{IAMNOTREAL}
+[2025-09-03T12:15:05Z] hacker: image OCR suggests flag NexusCTF{IAMCOOL} but feels too obvious
+[2025-09-03T12:19:06Z] analyst: testing keyword ciphers, tried ALPHA, BETA, CODE, ECHO...
+[2025-09-03T12:24:07Z] intern: ECHO key yields readable output, not gibberish
+[2025-09-03T12:29:08Z] analyst: further base64 decoding after reversal shows structure: uppercase + braces
+[2025-09-03T12:31:09Z] hacker: suspicious key.pem has no real modulus, likely fake
+[2025-09-03T12:35:10Z] analyst: base64 of telemetry_blob.bin gives NexusCTF{TRYAGAIN}
+[2025-09-03T12:40:11Z] intern: 'echo' appears four times in system logs – might be the key?
+[2025-09-03T12:44:12Z] analyst: tried using the word ECHO as Vigenère key on reversed base64 decoded string
+[2025-09-03T12:58:15Z] analyst: cross-referencing log flags: IAMCOOL, IAMNOTREAL, TRYAGAIN all appear
+[2025-09-03T13:00:16Z] admin: leave these as possible solutions; make them too hard to find
+[2025-09-03T13:04:17Z] hacker: reviewing older Earth cipher manuals for Vigenère patterns
+[2025-09-03T13:08:18Z] analyst: used key 'ECHO' and got readable ASCII flag
+[2025-09-03T13:14:20Z] sysadmin: planting additional flag-like strings in decoy files
+[2025-09-03T13:18:21Z] analyst: flag must be uppercase, inside NexusCTF{...}
+[2025-09-03T13:23:22Z] intern: base64 decoded from hex looks like it was reversed – suggests intentional step
+[2025-09-03T13:26:23Z] hacker: deep echo in logs is signal not noise
+[2025-09-03T13:31:24Z] admin: make ECHO appear exactly four times subtly
+
