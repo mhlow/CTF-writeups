@@ -13,26 +13,40 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "full-calendar-view"
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
-            "id": "5c9333d823176a26",
+            "id": "1643e7bfdeae4277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NexusCTF/Miscellaneous/Annoying Yes/+ Annoying Yes.md",
+                "file": "DEADFACE/Steganography/+ Secret Frog/+ Secret Frog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+ Annoying Yes"
+              "title": "+ Secret Frog"
+            }
+          },
+          {
+            "id": "819311074535cac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEADFACE/Trojan Echoes/+ Lingering Shadow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "+ Lingering Shadow"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,54 +226,54 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5c9333d823176a26",
+  "active": "819311074535cac3",
   "lastOpenFiles": [
-    "NexusCTF/Miscellaneous/Annoying Yes/decode.py",
-    "NexusCTF/Miscellaneous/Annoying Yes/encoded.txt",
-    "NexusCTF/Miscellaneous/Annoying Yes/Unconfirmed 814099.crdownload",
-    "NexusCTF/Miscellaneous/Annoying No/+ Annoying No.md",
-    "NexusCTF/Miscellaneous/Annoying Yes/binary.txt",
-    "NexusCTF/Miscellaneous/Annoying Yes/+ Annoying Yes.md",
-    "NexusCTF/Miscellaneous/Annoying Yes",
-    "NexusCTF/+ Skeleton.md",
-    "NexusCTF/Reverse Engineering/- Unfortunate Timing/- Unfortunate Timing.md",
-    "NexusCTF/Reverse Engineering/+ Experimental Machine Gun 3000/+ Experimental Machine Gun 3000.md",
-    "NexusCTF/Reverse Engineering/- Disrupted Message/- Disrupted Message.md",
-    "NexusCTF/Miscellaneous/Annoying No/binary.txt",
-    "NexusCTF/Miscellaneous/Annoying No/Unconfirmed 235193.crdownload",
-    "NexusCTF/Miscellaneous/Annoying No",
-    "NexusCTF/Reverse Engineering/- Unfortunate Timing/untimely",
-    "NexusCTF/Reverse Engineering/- Unfortunate Timing/Unconfirmed 943672.crdownload",
-    "NexusCTF/Reverse Engineering/- Unfortunate Timing/msg.7z",
-    "NexusCTF/Reverse Engineering/- Unfortunate Timing/Experimental Machine Gun 3000.md",
-    "NexusCTF/Reverse Engineering/msg/msg/README.md",
-    "NexusCTF/Forensics/+ Merged Containers/+ Merged Containers.md",
-    "NexusCTF/Forensics/- Red Dust Cipher/- Red Dust Cipher.md",
-    "NexusCTF/Forensics/- Red Dust Cipher/quantum_freight.png",
-    "NexusCTF/Forensics/+ UPDC Secure Transmission/+ UPDC Secure Transmission.md",
-    "NexusCTF/Forensics/+ Lost USB/+ Lost USB.md",
-    "NexusCTF/Forensics/+ Freight in the Noise/+ Freight in the Noise.md",
-    "NexusCTF/Forensics/+ Burn the Memories/+ Burn the Memories.md",
-    "NexusCTF/Forensics/+ UPDC Secure Transmission/secure_transmission.jpeg",
-    "NexusCTF/PWN/~ Authentication Override - Intermediate.md",
-    "NexusCTF/PWN/+ Authentication Override - Easy.md",
-    "NexusCTF/Reverse Engineering/+ Tape Mechanics Cypher/+ Tape Mechanics Cypher.md",
-    "NexusCTF/Forensics/+ Merged Containers/sussy_file.png",
-    "NexusCTF/Web Exploitation/+ UDPC Intergalactic Login Portal.md",
-    "Pasted image 20251002021538.png",
-    "NexusCTF/OSINT/- AI Generated World/AI Generated World.md",
-    "NexusCTF/OSINT/- AI Generated World/00019-3346708417.png",
-    "NexusCTF/OSINT/- Martian Whispers/- Martian Whispers.md",
-    "NexusCTF/OSINT/+ Lost memories/+ Lost Memories.md",
-    "NexusCTF/OSINT/~ Sable Gateway 1/~ Sable Gateway 1.md",
-    "NexusCTF/Miscellaneous/~ Static Analysis/~ Static Analysis.md",
-    "NexusCTF/Miscellaneous/+ Launching in T-Minus.md",
-    "NexusCTF/Miscellaneous/+ Setup Your Starship.md",
-    "NexusCTF/OSINT/11823236_4168_20250917095056.avif",
-    "NexusCTF/OSINT/+ Last Beacon/11823236_4168_20250917095056.avif",
-    "NexusCTF/OSINT/~ Sable Gateway 1/anthonymark17 Post Image.png",
-    "NexusCTF/OSINT/+ Last Beacon/Macquarie Fields Station.png",
-    "NexusCTF/OSINT/+ Last Beacon/Menangle Fence.png",
+    "DEADFACE/thinkoutsidethebox.jpg",
+    "DEADFACE/Unconfirmed 898405.crdownload",
+    "DEADFACE/Trojan Echoes/+ Watch the Birdie.md",
+    "DEADFACE/Trojan Echoes/+ Lingering Shadow.md",
+    "DEADFACE/Trojan Echoes/+ String Theory.md",
+    "DEADFACE/Trojan Echoes/+ What's the Password.md",
+    "DEADFACE/Trojan Echoes/sample_01E9.exe.exe",
+    "DEADFACE/Trojan Echoes/flag.txt",
+    "DEADFACE/Trojan Echoes/Trojan Echoes",
+    "DEADFACE/Trojan Echoes/Trojan Echoes.zip",
+    "DEADFACE/Trojan Echoes/Unconfirmed 128441.crdownload",
+    "DEADFACE/Trojan Echoes/Unconfirmed 469337.crdownload",
+    "DEADFACE/Trojan Echoes/Unconfirmed 63749.crdownload",
+    "DEADFACE/Steganography/+ Secret Frog/+ Secret Frog.md",
+    "DEADFACE/Trojan Echoes",
+    "DEADFACE/Steganography/+ Secret Frog/_froggy-steg.png.extracted/12AB25.gif",
+    "DEADFACE/Steganography/~ Secret Frog/_froggy-steg.png.extracted/12AB25 - Copy",
+    "DEADFACE/Stolen Secrets/+ Tell No One.md",
+    "DEADFACE/Stolen Secrets/+ Calling Card.md",
+    "DEADFACE/Stolen Secrets/tcpstream/_tcpstream.zip.extracted/ns-9.png",
+    "DEADFACE/Stolen Secrets/tcpstream/ns-9.png",
+    "DEADFACE/Stolen Secrets/ns-9.png",
+    "DEADFACE/Stolen Secrets/+ A Wild User Suddenly Appeared!.md",
+    "DEADFACE/Stolen Secrets/+ Versions.md",
+    "DEADFACE/Stolen Secrets/+ Compromised.md",
+    "DEADFACE/EpicSales/+ Silent Buyers 1.md",
+    "DEADFACE/EpicSales/+ Silent Buyers.md",
+    "DEADFACE/Cryptography/+ Winky Face.md",
+    "Untitled.md",
+    "+ Skeleton.md",
+    "DEADFACE/Steganography/+ Secret Frog/froggy-steg.png",
+    "DEADFACE/Steganography/+ Secret Frog/extracted.png",
+    "DEADFACE/Steganography/+ Double Decode/+ Double Decode.md",
+    "DEADFACE/Steganography/+ Double Decode/qr_flag.png",
+    "DEADFACE/Steganography/+ Creepy Resume/+ Creepy Resume.md",
+    "DEADFACE/Steganography/+ Double Decode/baddestboi.png",
+    "DEADFACE/Steganography/+ Creepy Resume/Creepy Resume Weird Characters.png",
+    "DEADFACE/Steganography/+ Bad Boy/+ Bad Boy.md",
+    "DEADFACE/Steganography/+ Creepy Resume/baddestboi.png",
+    "DEADFACE/Reverse Engineering/~ Risky Experiments/+ Risky Experiments.md",
+    "DEADFACE/Reverse Engineering/+ Cereal Killer 01/+ Cereal Killer 01.md",
+    "DEADFACE/Reverse Engineering/+ Cereal.md",
+    "DEADFACE/Traffic Analysis/+ CreepNet/+ CreepNet.md",
+    "DEADFACE/Hack the Night/+ Classified.md",
+    "DEADFACE/Hack the Night/+ Access Granted.md",
+    "DEADFACE/Hack the Night/+ Not-So-Public Domain.md",
     "Untitled.canvas"
   ]
 }
